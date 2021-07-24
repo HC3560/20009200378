@@ -9,3 +9,5 @@
 
 第三节课笔记：[note_3](lessons3/note_3.md)
 
+> CD4511的应用：[CD4511应用](lessons3/CD4511应用.md)
+
