@@ -8,7 +8,7 @@
 
 ### （1）板子
 
-![Arduino板子](Arduino板子.png)
+![Arduino板子](Images/Arduino板子.png)
 
 ### （2）Arduino软件（Arduino IDE）
 
@@ -26,7 +26,7 @@
 
 连接图
 
-![跑马灯接线图](跑马灯接线图.png)
+![跑马灯接线图](Images/跑马灯接线图.png)
 
 代码实现
 
@@ -52,7 +52,7 @@ void loop() {
 
 改进如图：由于LED灯需要的电流比较小，电流过大有可能会烧坏LED，所以可以在电路中加一个电阻，以保护LED灯。
 
-![跑马灯接线-加电阻改进](跑马灯接线-加电阻改进.png)
+![跑马灯接线-加电阻改进](Images/跑马灯接线-加电阻改进.png)
 
 ## 4.Arduino与PC互动
 
